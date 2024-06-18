@@ -1,0 +1,51 @@
+E:\VS2022Sqlserver_coursedesign\Books_management_system\bin\Debug\Books_management_system.exe.config
+E:\VS2022Sqlserver_coursedesign\Books_management_system\bin\Debug\Books_management_system.exe
+E:\VS2022Sqlserver_coursedesign\Books_management_system\bin\Debug\Books_management_system.pdb
+E:\VS2022Sqlserver_coursedesign\Books_management_system\obj\Debug\Books_management_system.csproj.AssemblyReference.cache
+E:\VS2022Sqlserver_coursedesign\Books_management_system\obj\Debug\Books_management_system.books.resources
+E:\VS2022Sqlserver_coursedesign\Books_management_system\obj\Debug\Books_management_system.dashboard.resources
+E:\VS2022Sqlserver_coursedesign\Books_management_system\obj\Debug\Books_management_system.login.resources
+E:\VS2022Sqlserver_coursedesign\Books_management_system\obj\Debug\Books_management_system.Form1.resources
+E:\VS2022Sqlserver_coursedesign\Books_management_system\obj\Debug\Books_management_system.Properties.Resources.resources
+E:\VS2022Sqlserver_coursedesign\Books_management_system\obj\Debug\Books_management_system.users.resources
+E:\VS2022Sqlserver_coursedesign\Books_management_system\obj\Debug\Books_management_system.csproj.GenerateResource.cache
+E:\VS2022Sqlserver_coursedesign\Books_management_system\obj\Debug\Books_management_system.csproj.CoreCompileInputs.cache
+E:\VS2022Sqlserver_coursedesign\Books_management_system\obj\Debug\Books_management_system.exe
+E:\VS2022Sqlserver_coursedesign\Books_management_system\obj\Debug\Books_management_system.pdb
+E:\VS2022Sqlserver_coursedesign\Books_management_system\obj\Debug\Books_management_system.Billing.resources
+E:\VS2022Sqlserver_coursedesign\Books_management_system\obj\Debug\Books_management_system.AdminLogin.resources
+E:\VS2022Sqlserver_coursedesign\Books_management_system - 副本\bin\Debug\Books_management_system.exe.config
+E:\VS2022Sqlserver_coursedesign\Books_management_system - 副本\bin\Debug\Books_management_system.exe
+E:\VS2022Sqlserver_coursedesign\Books_management_system - 副本\bin\Debug\Books_management_system.pdb
+E:\VS2022Sqlserver_coursedesign\Books_management_system - 副本\obj\Debug\Books_management_system.csproj.AssemblyReference.cache
+E:\VS2022Sqlserver_coursedesign\Books_management_system - 副本\obj\Debug\Books_management_system.AdminLogin.resources
+E:\VS2022Sqlserver_coursedesign\Books_management_system - 副本\obj\Debug\Books_management_system.Billing.resources
+E:\VS2022Sqlserver_coursedesign\Books_management_system - 副本\obj\Debug\Books_management_system.books.resources
+E:\VS2022Sqlserver_coursedesign\Books_management_system - 副本\obj\Debug\Books_management_system.dashboard.resources
+E:\VS2022Sqlserver_coursedesign\Books_management_system - 副本\obj\Debug\Books_management_system.login.resources
+E:\VS2022Sqlserver_coursedesign\Books_management_system - 副本\obj\Debug\Books_management_system.Form1.resources
+E:\VS2022Sqlserver_coursedesign\Books_management_system - 副本\obj\Debug\Books_management_system.Properties.Resources.resources
+E:\VS2022Sqlserver_coursedesign\Books_management_system - 副本\obj\Debug\Books_management_system.users.resources
+E:\VS2022Sqlserver_coursedesign\Books_management_system - 副本\obj\Debug\Books_management_system.csproj.GenerateResource.cache
+E:\VS2022Sqlserver_coursedesign\Books_management_system - 副本\obj\Debug\Books_management_system.csproj.CoreCompileInputs.cache
+E:\VS2022Sqlserver_coursedesign\Books_management_system - 副本\obj\Debug\Books_management_system.exe
+E:\VS2022Sqlserver_coursedesign\Books_management_system - 副本\obj\Debug\Books_management_system.pdb
+E:\VS2022Sqlserver_coursedesign\Books_management_system - 副本\obj\Debug\Books_management_system.register.resources
+E:\VS2022Sqlserver_coursedesign\Books_management_system - 副本 - 副本\bin\Debug\Books_management_system.exe.config
+E:\VS2022Sqlserver_coursedesign\Books_management_system - 副本 - 副本\bin\Debug\Books_management_system.exe
+E:\VS2022Sqlserver_coursedesign\Books_management_system - 副本 - 副本\bin\Debug\Books_management_system.pdb
+E:\VS2022Sqlserver_coursedesign\Books_management_system - 副本 - 副本\obj\Debug\Books_management_system.csproj.AssemblyReference.cache
+E:\VS2022Sqlserver_coursedesign\Books_management_system - 副本 - 副本\obj\Debug\Books_management_system.AdminLogin.resources
+E:\VS2022Sqlserver_coursedesign\Books_management_system - 副本 - 副本\obj\Debug\Books_management_system.Billing.resources
+E:\VS2022Sqlserver_coursedesign\Books_management_system - 副本 - 副本\obj\Debug\Books_management_system.books.resources
+E:\VS2022Sqlserver_coursedesign\Books_management_system - 副本 - 副本\obj\Debug\Books_management_system.dashboard.resources
+E:\VS2022Sqlserver_coursedesign\Books_management_system - 副本 - 副本\obj\Debug\Books_management_system.Feedback.resources
+E:\VS2022Sqlserver_coursedesign\Books_management_system - 副本 - 副本\obj\Debug\Books_management_system.login.resources
+E:\VS2022Sqlserver_coursedesign\Books_management_system - 副本 - 副本\obj\Debug\Books_management_system.register.resources
+E:\VS2022Sqlserver_coursedesign\Books_management_system - 副本 - 副本\obj\Debug\Books_management_system.Form1.resources
+E:\VS2022Sqlserver_coursedesign\Books_management_system - 副本 - 副本\obj\Debug\Books_management_system.Properties.Resources.resources
+E:\VS2022Sqlserver_coursedesign\Books_management_system - 副本 - 副本\obj\Debug\Books_management_system.users.resources
+E:\VS2022Sqlserver_coursedesign\Books_management_system - 副本 - 副本\obj\Debug\Books_management_system.csproj.GenerateResource.cache
+E:\VS2022Sqlserver_coursedesign\Books_management_system - 副本 - 副本\obj\Debug\Books_management_system.csproj.CoreCompileInputs.cache
+E:\VS2022Sqlserver_coursedesign\Books_management_system - 副本 - 副本\obj\Debug\Books_management_system.exe
+E:\VS2022Sqlserver_coursedesign\Books_management_system - 副本 - 副本\obj\Debug\Books_management_system.pdb
